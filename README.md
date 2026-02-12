@@ -1,7 +1,7 @@
-'''json
+```json
 {
   "mcpServers": {
-    "weather": {
+    "chess": {
       "command": "uvx",
       "args": [
         "--from",
@@ -11,4 +11,4 @@
     }
   }
 }
-'''
+```
